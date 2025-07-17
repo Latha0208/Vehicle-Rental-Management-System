@@ -29,3 +29,29 @@ VehicleRentalMgt/
 │   └── main/
 │       └── VehicleRentalApp.java
 └── README.md
+
+How to Run
+Clone this repository:
+
+bash
+Copy
+Edit
+git clone git@github.com:Latha0208/Vehicle-Rental-Management-System.git
+Open in Eclipse or any IDE
+
+Run the VehicleRentalApp.java file from main package
+
+🔑 OOP Concepts Used
+Abstraction – Using abstract class Vehicle
+
+Inheritance – Car, Bike extend Vehicle
+
+Encapsulation – Proper use of fields and methods
+
+Polymorphism – Using overridden methods for different vehicle types
+
+✍️ Author
+Latha S Maheswari
+📍 Bangalore, India
+📧 latha.brahma@gmail.com
+🔗 LinkedIn Profile
